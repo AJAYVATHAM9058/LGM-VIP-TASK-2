@@ -15,3 +15,7 @@
 
 5. Use custom CSS/SASS/styled-components. 
 
+
+![Screenshot (173)](https://user-images.githubusercontent.com/75926757/142754900-e56a18ef-31e0-44ad-8ce5-752f84208d9e.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/75926757/142754908-d5265274-9b50-4d7d-b747-ce17fdff508e.png)
+

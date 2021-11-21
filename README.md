@@ -1,5 +1,7 @@
 # LGM-VIP-TASK-2
 
+preview: https://ajayvatham9058.github.io/LGM-VIP-TASK-2/
+
 # 02 INTERMEDIATE LEVEL Task
 
  Create a web application using create-react-app
